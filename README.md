@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0643-maximum-average-subarray-i](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2102-find-the-middle-index-in-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0134-gas-station) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
