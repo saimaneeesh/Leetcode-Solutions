@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2342-minimum-average-difference) |
+| [2358-number-of-ways-to-split-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2342-minimum-average-difference) |
+| [2358-number-of-ways-to-split-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
