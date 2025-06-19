@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0134-gas-station](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0643-maximum-average-subarray-i](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
