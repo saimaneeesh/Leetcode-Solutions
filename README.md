@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+## Math
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0640-solve-the-equation) |
+## String
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0640-solve-the-equation) |
+## Simulation
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/saimaneeesh/Leetcode-Solutions/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
